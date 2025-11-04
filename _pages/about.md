@@ -26,8 +26,8 @@ Hey there! I'm Ruqi Xiao (肖茹琪), a third-year Computer Science undergrad at
 
 # 🔥 News
 - *2025.10*: Received the 2025 **Lei Jun Computer Scholarship** at Wuhan University.
-- *2025.09*: Awarded the National Bronze Prize in the China International College Students Innovation Competition (2025).
-- *2025.03*: One co-authored paper on physical adversarial attacks was accepted to CVPR 2025.
+- *2025.09*: Awarded the **National Bronze Prize** in the **China International College Students Innovation Competition (2025)**.
+- *2025.03*: One co-authored paper on physical adversarial attacks was accepted to **CVPR 2025**.
 - *2024.10*: Received the 2024 **China National Scholarship** at Wuhan University.
 - *2024.11*: Received the 2023 **Freshman Second-Class Scholarship** at Wuhan University.
 
@@ -38,7 +38,7 @@ Hey there! I'm Ruqi Xiao (肖茹琪), a third-year Computer Science undergrad at
 
 [ProjAttacker: A Configurable Physical Adversarial Attack for Face Recognition via Projector](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_ProjAttacker_A_Configurable_Physical_Adversarial_Attack_for_Face_Recognition_via_CVPR_2025_paper.pdf)
 
-Yuanwei Liu*, Hui Wei*, Chengyu Jia, **Ruqi Xiao**, Weijian Ruan, Xingxing Wei, Joey Tianyi Zhou, Zheng Wang
+Yuanwei Liu\*, Hui Wei\*, Chengyu Jia, **Ruqi Xiao**, Weijian Ruan, Xingxing Wei, Joey Tianyi Zhou, Zheng Wang
 
 *\* On behalf of the equal contribution.*
 

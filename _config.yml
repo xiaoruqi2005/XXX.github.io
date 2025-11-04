@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ruqi Xiao(肖茹琪)"
   avatar           : "images/myphoto.jpg" 
-  bio              : "Trusthworthy AI | Large Language Model Security | Computer Vision"
+  bio              : "Trustworthy AI<br>Large Language Model Security<br>Computer Vision"
   location         : 
   employer         : "Wuhan University"
   pubmed           : 

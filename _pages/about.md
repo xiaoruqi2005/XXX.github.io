@@ -21,6 +21,8 @@ redirect_from:
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
+Hey there! I'm Ruqi Xiao (肖茹琪), a third-year Computer Science undergrad at Wuhan University. I'm currently focusing on Trustworthy AI and Large Language Model security, working towards building reliable and robust intelligent systems. I'm always open to collaborating on interesting projects and discussions in these areas.
+
 
 # 🔥 News
 - *2025.10*: Received the 2025 **Lei Jun Computer Scholarship** at Wuhan University.
@@ -31,12 +33,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ProjAttacker: A Configurable Physical Adversarial Attack for Face Recognition via Projector](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_ProjAttacker_A_Configurable_Physical_Adversarial_Attack_for_Face_Recognition_via_CVPR_2025_paper.pdf)
 
-Yuanwei Liu*, Hui Wei*, Chengyu Jia, Ruqi Xiao, Weijian Ruan, Xingxing Wei, Joey Tianyi Zhou, Zheng Wang
+Yuanwei Liu*, Hui Wei*, Chengyu Jia, **Ruqi Xiao**, Weijian Ruan, Xingxing Wei, Joey Tianyi Zhou, Zheng Wang
 
 *\* On behalf of the equal contribution.*
 

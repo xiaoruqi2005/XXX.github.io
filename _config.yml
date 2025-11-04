@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Ruqi Xiao"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Just a humble little scholar, slowly but surely."
+repository               : "xiaoruqi2005/XXX.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ruqi Xiao"
+  name             : "Ruqi Xiao(肖茹琪)"
   avatar           : "images/myphoto.jpg" 
-  bio              : "Undergrad Student | Computer Vision & Trusthworthy AI"
-  location         : "Wuhan, China"
+  bio              : "Computer Vision | Trusthworthy AI"
+  location         : 
   employer         : "Wuhan University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3bAaxBkAAAAJ&hl=en"
